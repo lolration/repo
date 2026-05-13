@@ -1,7 +1,7 @@
 {
-  "name": "@avaisadev/securly-scraper-tools",
+  "name": "@securlytestingscrape/diagnostics",
   "version": "1.0.0",
-  "description": "utility collection for goguardian and securly environment scraping and testing, testing environment for securly and goguardian.",
+  "description": "utility collection for goguardian and securly environment scraping and testing",
   "main": "index.svg",
   "repository": {
     "type": "git",
