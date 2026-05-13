@@ -1,0 +1,27 @@
+{
+  "name": "@avaisadev/securly-scraper-tools",
+  "version": "1.0.0",
+  "description": "utility collection for goguardian and securly environment scraping and testing, testing environment for securly and goguardian.",
+  "main": "index.svg",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avaisadev/github.git"
+  },
+  "files": [
+    "*.html",
+    "*.svg"
+  ],
+  "keywords": [
+    "securly",
+    "goguardian",
+    "scraper",
+    "education-tools",
+    "diagnostic"
+  ],
+  "author": "securlyscraper",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/avaisadev/github/issues"
+  },
+  "homepage": "https://github.com/avaisadev/github/tree/main#readme"
+}
